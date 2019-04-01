@@ -1,8 +1,5 @@
 package kolin.mykotlin
 
-<<<<<<< HEAD
- 
-=======
 import org.junit.Test
 
 val string = "HelloWorld"
@@ -58,4 +55,3 @@ class bibao {
     }
 }
 
->>>>>>> 045b36c72f3d3068ae69868008b49c00e5ef4a08
